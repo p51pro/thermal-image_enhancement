@@ -1,8 +1,8 @@
 import os 
 import shutil
 
-inp_dir = "/home/p51pro/UD/Academic/ELEG604/Project/100_FLIR"
-output_dir = "/home/p51pro/UD/Academic/ELEG604/Project/output_files"
+inp_dir = "/home/p51pro/UD/Academic/ELEG604/Project/Nick290323"
+output_dir = "/home/p51pro/UD/Academic/ELEG604/Project/DataSet"
 
 if not os.path.exists(output_dir):
     os.mkdir(output_dir)
